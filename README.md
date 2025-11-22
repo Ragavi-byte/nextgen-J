@@ -1,23 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# NextGen Career – Professional Networking & Skill Intelligence Platform
 
-# NextGen Career Platform
+NextGen Career is a modern career and professional networking platform designed to help users:
+- Build a clean and personalized career profile  
+- Generate AI-powered resume summaries  
+- Explore skill-based evaluations  
+- Access career path suggestions  
+- View salary insights  
+- Maintain professional reputation metrics  
 
-This project is a modern, skill-focused professional networking and career development platform.  
-It includes account login, personalized dashboards, skill showcases, and various career-focused tools.
-
-## 🚀 Run the Project Locally
-
-**Prerequisites:**
-
-- Node.js (LTS recommended)
-- A code editor (VS Code recommended)
+This project is built using **React + TypeScript + Vite** and is fully customizable without depending on any external branded AI service.
 
 ---
 
-### **1. Install Dependencies**
+## 🚀 Features
 
+### ⭐ Profile Builder  
+Create a clean professional profile with skills, experience, and personal details.
+
+### ⭐ AI-Based Resume Helper  
+Generate resume summaries and skill-based insights (using your own backend or API).
+
+### ⭐ Skill Verification  
+Take skill tests with multiple-choice questions.
+
+### ⭐ Career Roadmap  
+Get suggestions for the next step in your career.
+
+### ⭐ Salary Insights  
+Shows salary ranges, trends, and skill premiums.
+
+### ⭐ Clean UI  
+Responsive design using **TailwindCSS**.
+
+---
+
+## 🔧 Tech Stack
+
+- **React** (with Vite)
+- **TypeScript**
+- **React Router**
+- **TailwindCSS**
+
+---
+
+## 📦 Install & Run Locally
+
+### **1. Install dependencies**
 ```sh
 npm install
-```
