@@ -1,0 +1,7 @@
+{
+  "name": "NextGen Career",
+  "description": "A professional networking platform focused on skills, opportunities, and data-driven career growth.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
